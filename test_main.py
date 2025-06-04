@@ -18,4 +18,4 @@ genome=assembleGenome(order,reads,overlaps)
 print("Assembled genome: ")
 print(genome, "\n") 
 
-saveGenomeToFile(genome, 'genome.txt')
+saveGenomeToFile(genome, 'assembled_genome.txt')
