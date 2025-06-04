@@ -1,6 +1,6 @@
 # Basic Genome Assembler - v1.0
 
-A simple genome assembler written in Python as part of the final project for the course **BioQuants** at Politecnico di Torino.
+A simple genome assembler written in Python as part of the final exam of the course **BioQuants** at Politecnico di Torino.
 
 ## 📘 Description
 
